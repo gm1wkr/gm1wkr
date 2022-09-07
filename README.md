@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
+
+Please bear with me while I create my profile.  First I have to tidy up my repos!
 
 <!--
 **gm1wkr/gm1wkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

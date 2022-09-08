@@ -23,7 +23,7 @@ I'm Mike and have just graduated from CodeClan_
 [![Node.js][Node-pic]][Node-url]
 
 ### Java
-[![JavaScript][Java-pic]][JavaScript-url]
+[![Java][Java-pic]][Java-url]
 
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555

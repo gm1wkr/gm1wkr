@@ -1,9 +1,14 @@
-### Hello 👋,
+# Hello 👋,
 
-I'm Mike and have just graduated from CodeClan_ 
+I'm Mike and have just graduated from CodeClan_ Professional Software Development course which was a wonderful, if intense, experience.
 
 
 ## Languages, Frameworks and Libraries
+
+### HTML5 and CSS3
+
+[![HTML5][HTML5-pic]][HTML5-url]
+[![CSS3][CSS3-pic]][CSS3-url]
 
 ### Python
 
@@ -13,17 +18,15 @@ I'm Mike and have just graduated from CodeClan_
 
 ### JavaScript
 
-
 [![JavaScript][JavaScript-pic]][JavaScript-url]
-[![HTML5][HTML5-pic]][HTML5-url]
-[![CSS3][CSS3-pic]][CSS3-url]
 [![MongoDB][MongoDB-pic]][MongoDB-url]
 [![Express][Express-pic]][Express-url]
 [![React][React-pic]][React-url]
 [![Node.js][Node-pic]][Node-url]
 
 ### Java
-[![Java][Java-pic]][Java-url]
+[![Java][Java-pic]][Java-url] Add shields for H2 JPA Spring Boot 
+
 
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
@@ -66,4 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-

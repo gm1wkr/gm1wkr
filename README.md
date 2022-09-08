@@ -11,13 +11,11 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 [![CSS3][CSS3-pic]][CSS3-url]
 
 ### Python
-
 [![Python][Python-pic]][Python-url]
 [![Flask][Flask-pic]][Flask-url]
 [![Postgres][Postgres-pic]][Postgres-url]
 
 ### JavaScript
-
 [![JavaScript][JavaScript-pic]][JavaScript-url]
 [![MongoDB][MongoDB-pic]][MongoDB-url]
 [![Express][Express-pic]][Express-url]
@@ -25,7 +23,8 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 [![Node.js][Node-pic]][Node-url]
 
 ### Java
-[![Java][Java-pic]][Java-url] Add shields for H2 JPA Spring Boot 
+[![Java][Java-pic]][Java-url]  
+[![Spring][Spring-pic]][Spring-url] Add shields for H2 JPA Spring Boot 
 
 
 <!-- Shields -->
@@ -40,6 +39,8 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 [Flask-url]: https://flask.palletsprojects.com/
 [Java-pic]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
+[Spring-pic]: https://img.shields.io/badge/spring-%23000000.svg?style=for-the-badge&logo=spring&logoColor=white
+[Spring-url]: https://www.java.com/
 [JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white

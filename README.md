@@ -25,11 +25,11 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 ### Java
 [![Java][Java-pic]][Java-url]  
 [![Spring][Spring-pic]][Spring-url] Add shields for H2 JPA Spring Boot 
-
+[![SpringBoot][SpringBoot-pic]][SpringBoot-url]
 
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/016-james-robbins
+[linkedin-url]: https://www.linkedin.com/in/XXXXXXXXXXXXXX
 
 [CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -41,6 +41,8 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 [Java-url]: https://www.java.com/
 [Spring-pic]: https://img.shields.io/badge/spring-%23000000.svg?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://www.java.com/
+[SpringBoot-pic]: https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white
+[SpringBoot-url]: https://www.java.com/
 [JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white

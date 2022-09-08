@@ -5,6 +5,22 @@ I'm Mike and have just graduated from CodeClan_
 
 ## Languages, Frameworks and Libraries
 
+[![JavaScript][JavaScript-pic]][JavaScript-url]
+[![Python][Python-pic]][Python-url]
+[![HTML5][HTML5-pic]][HTML5-url]
+[![CSS3][CSS3-pic]][CSS3-url]
+<br>
+[![MongoDB][MongoDB-pic]][MongoDB-url]
+[![Express][Express-pic]][Express-url]
+[![React][React-pic]][React-url]
+[![Node.js][Node-pic]][Node-url]
+<br>
+[![Flask][Flask-pic]][Flask-url]
+[![Postgres][Postgres-pic]][Postgres-url]
+
+
+
+<!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/016-james-robbins
 

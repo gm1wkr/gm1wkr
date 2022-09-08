@@ -1,7 +1,8 @@
 # Hello 👋,
 
-I'm Mike and have just graduated from CodeClan_ Professional Software Development course which was a wonderful, if intense, experience.
+I'm Mike and have just graduated from CodeClan_ Professional Software Development course which was a wonderful, if intense, experience.  
 
+[![linkedin][linkedin-pic]][linkedin-url]
 
 ## Languages, Frameworks and Libraries
 
@@ -24,12 +25,12 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 
 ### Java
 [![Java][Java-pic]][Java-url]  
-[![Spring][Spring-pic]][Spring-url] Add shields for H2 JPA Spring Boot 
+[![Spring][Spring-pic]][Spring-url]
 [![SpringBoot][SpringBoot-pic]][SpringBoot-url]
 
 <!-- Shields -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/XXXXXXXXXXXXXX
+[linkedin-pic]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mike-langley-641713246/
 
 [CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS

@@ -30,7 +30,7 @@ I enjoy all aspects of development from backend engineering to creating solid an
 
 
 
-<div align="center" padding="10">
+<div align="center" style="padding: 10px;background-color: #ffffff;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;

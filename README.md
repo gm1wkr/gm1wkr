@@ -13,6 +13,12 @@
 
 I'm Mike and have just graduated from CodeClan_ Professional Software Development course which was a wonderful, if intense, experience.  
 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gm1wkr&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+
+
 [![linkedin][linkedin-pic]][linkedin-url]
 
 ## Languages, Frameworks and Libraries

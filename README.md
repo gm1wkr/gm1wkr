@@ -15,7 +15,7 @@ I'm Mike and have just graduated from CodeClan_ Professional Software Developmen
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gm1wkr&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gm1wkr&theme=dark&hide_border=true&border_radius=6&ring=DD4000&currStreakLabel=DD4500)](https://git.io/streak-stats)
 
 
 

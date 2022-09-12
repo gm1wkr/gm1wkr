@@ -9,12 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=gm1wkr&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hello 👋,
+# 👋 Hello,
 
-I'm Mike and have just graduated from CodeClan_ Professional Software Development course which was a wonderful, if intense, experience.  
+I'm Mike - a junior software developer from the North East Scotland.  Having just completed <a href="https://codeclan.com/courses/professional-software-development/">CodeClan_ Professional Software Development</a> I am eager to explore the next steps of working as a professional developer.
 
+In the meantime I am working on tidying up my rather messy GitHub repositories and practicing my skills.  I have also volunteered for the Scottish Tech Army and Codebar.
 
-<div id="header" align="center">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gm1wkr&theme=dark&hide_border=true&border_radius=6&ring=DD4000&currStreakLabel=DD4500&background=300F0000&stroke=FFFFFF91&border=FFFFFF68)](https://git.io/streak-stats)
 

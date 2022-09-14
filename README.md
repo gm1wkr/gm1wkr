@@ -1,4 +1,5 @@
 <div id="header" align="center" style="width: 50%">
+
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"  style="width: 50%" />
 
   <div id="badges">

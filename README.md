@@ -47,35 +47,33 @@ I enjoy all aspects of development from backend engineering to creating solid an
 
 
 ### HTML5 and CSS3
+[![HTML5][HTML5-pic]][HTML5-url] [![CSS3][CSS3-pic]][CSS3-url]
+
 I am constantly astounded by how complex these languages have become, especially when accessibility and semantic layout are considered.  I feel an absolute responsibility to write HTML and CSS that is pragmatic, semantic and accessible and continually challenge myself to improve.  While not a natural UI/UX guy I absolutely love working on the interface between the code and the human eye.
 
-[![HTML5][HTML5-pic]][HTML5-url]
-[![CSS3][CSS3-pic]][CSS3-url]
 
 ### Python
+[![Python][Python-pic]][Python-url] [![Flask][Flask-pic]][Flask-url] [![Postgres][Postgres-pic]][Postgres-url]
+
 I enjoy Python imensly!  I have been writing bad but functional python code as an amateur for a few years, mostly to experiment with sensors and raspberry Pis.  CodeClan allowed me to level up these basic skills and introduced me to the delights of OOP.  I love Python because it can be used to quickly test a prototype or learn something new while still being an exceedingly capable language on the backend and front-end.  I now hope to spend some time learning how to leverage Python and associated libraries like Flask and Jinja2 templating.  
-[![Python][Python-pic]][Python-url]
-[![Flask][Flask-pic]][Flask-url]
-[![Postgres][Postgres-pic]][Postgres-url]
+
 
 ### JavaScript
+[![JavaScript][JavaScript-pic]][JavaScript-url][![MongoDB][MongoDB-pic]][MongoDB-url][![Express][Express-pic]][Express-url][![React][React-pic]][React-url][![Node.js][Node-pic]][Node-url]
+
 As a user I freely admit that I used to hate JavaScript with a passion and would always switch it off in the browser to stop annoying alert boxes (Yes, I do want to leave the page) or flashing text from distracting me while surfing.  And then, all of a sudden, JS seemed to mature and become ... awesome!
 
 JavaScript now never ceases to surprise and delight me and the more I learn about it the more I have come to love it and its idiosyncrasies.  I have a firm grounding in vanilla JS and am comfortable using React and Node.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.  
-[![JavaScript][JavaScript-pic]][JavaScript-url]
-[![MongoDB][MongoDB-pic]][MongoDB-url]
-[![Express][Express-pic]][Express-url]
-[![React][React-pic]][React-url]
-[![Node.js][Node-pic]][Node-url]
+
 
 ### Java
+[![Java][Java-pic]][Java-url] [![Spring][Spring-pic]][Spring-url] [![SpringBoot][SpringBoot-pic]][SpringBoot-url]
+
 CodeClan introduced me to Java development using vanilla Java and Java with Spring Boot.  I very much look forward to continuing with this amazing language and its frameworks.  I very much enjoy the rigidity and discipline of the language and how it naturally encourages me to employ the whole development process from planning to using design patterns to strictly writing clean, test driven, code.  
 
 Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  
 
-[![Java][Java-pic]][Java-url]  
-[![Spring][Spring-pic]][Spring-url]
-[![SpringBoot][SpringBoot-pic]][SpringBoot-url]
+
 
 <!-- Shields -->
 [linkedin-pic]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555

@@ -71,7 +71,9 @@ JavaScript now never ceases to surprise and delight me and the more I learn abou
 
 CodeClan introduced me to Java development using vanilla Java and Java with Spring Boot.  I very much look forward to continuing with this amazing language and its frameworks.  I very much enjoy the rigidity and discipline of the language and how it naturally encourages me to employ the whole development process from planning to using design patterns to strictly writing clean, test driven, code.  
 
-Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to transfer this understanding to learning neww statically typed languages like C#.
+I am looking forward to gaining comfort with tooling that languages like Java use as well as learning to leverage the amazing features of modern IDE's to produce well written code efficiently.
+
+Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed languages like C# and/or Go, Rust or C++ (choices, choices!).
 
 
 

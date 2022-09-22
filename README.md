@@ -55,7 +55,7 @@ I am constantly astounded by how complex these languages have become, especially
 ### Python
 [![Python][Python-pic]][Python-url] [![Flask][Flask-pic]][Flask-url] [![Postgres][Postgres-pic]][Postgres-url]
 
-I enjoy Python imensly!  I have been writing bad but functional python code as an amateur for a few years, mostly to experiment with sensors and raspberry Pis.  CodeClan allowed me to level up these basic skills and introduced me to the delights of OOP.  I love Python because it can be used to quickly test a prototype or learn something new while still being an exceedingly capable language on the backend and front-end.  I now hope to spend some time learning how to leverage Python and associated libraries like Flask and Jinja2 templating.  
+I enjoy Python imensly!  I have been writing bad but functional python code as an amateur for a few years, mostly to experiment with sensors and raspberry Pis.  CodeClan allowed me to level up these basic skills and introduced me to the delights of OOP.  I love Python because it can be used to quickly test a prototype or learn something new while still being an exceedingly capable language on the backend and front-end.  Currently, I am enjoying spending some time learning how to leverage Python and associated libraries like Flask and Jinja2 templating and introding myself to PEP8 and the wider Zen of Python.  
 
 
 ### JavaScript

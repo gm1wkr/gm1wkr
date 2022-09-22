@@ -65,6 +65,7 @@ As a user I freely admit that I used to hate JavaScript with a passion and would
 
 JavaScript now never ceases to surprise and delight me and the more I learn about it the more I have come to love it and its idiosyncrasies.  I have a firm grounding in vanilla JS and am comfortable using React and Node.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.  
 
+My next step on this journey will be to start learning TypeScript.
 
 ### Java
 [![Java][Java-pic]][Java-url] [![Spring][Spring-pic]][Spring-url] [![SpringBoot][SpringBoot-pic]][SpringBoot-url]
@@ -73,7 +74,7 @@ CodeClan introduced me to Java development using vanilla Java and Java with Spri
 
 I am looking forward to gaining comfort with tooling that languages like Java use as well as learning to leverage the amazing features of modern IDE's to produce well written code efficiently.
 
-Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed languages like C# and/or Go, Rust or C++ (choices, choices!).
+Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed language like C# and/or Go, Rust or C++ (choices, choices, choices!).
 
 
 

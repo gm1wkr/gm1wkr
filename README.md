@@ -49,13 +49,13 @@ I enjoy all aspects of development from backend engineering to creating solid an
 ### HTML5 and CSS3
 [![HTML5][HTML5-pic]][HTML5-url] [![CSS3][CSS3-pic]][CSS3-url]
 
-I am constantly astounded by how complex these languages have become, especially when accessibility and semantic layout are considered.  I feel an absolute responsibility to write HTML and CSS that is pragmatic, semantic and accessible and continually challenge myself to improve.  While not a natural UI/UX guy I absolutely love working on the interface between the code and the human eye.
+I am constantly astounded by how complex these languages have become, especially when accessibility and semantic layout are considered.  I feel an absolute responsibility to write HTML and CSS that is pragmatic, semantic and accessible and continually challenge myself to improve.  While not a natural UI/UX guy I absolutely love working on the interface between science and art - between tech and human perceptions.  I continually strive to understand UI/UX better and improve my HTML5/CSS3 skills.
 
 
 ### Python
 [![Python][Python-pic]][Python-url] [![Flask][Flask-pic]][Flask-url] [![Postgres][Postgres-pic]][Postgres-url]
 
-I enjoy Python imensly!  I have been writing bad but functional python code as an amateur for a few years, mostly to experiment with sensors and raspberry Pis.  CodeClan allowed me to level up these basic skills and introduced me to the delights of OOP.  I love Python because it can be used to quickly test a prototype or learn something new while still being an exceedingly capable language on the backend and front-end.  Currently, I am enjoying spending some time learning how to leverage Python and associated libraries like Flask and Jinja2 templating and introding myself to PEP8 and the wider Zen of Python.  
+I enjoy Python immensely!  I have been writing bad but functional python code as an amateur for a few years, mostly to experiment with sensors and raspberry Pis.  CodeClan allowed me to level up these basic skills and introduced me to the delights of OOP.  I love Python because it can be used to quickly test a prototype or learn something new while still being an exceedingly capable language on the backend and front-end.  Currently, I am enjoying spending some time learning how to better leverage Python and associated libraries like Flask and Jinja2 templating while introducing myself to PEP8 and the wider Zen of Python.  
 
 
 ### JavaScript
@@ -71,7 +71,7 @@ JavaScript now never ceases to surprise and delight me and the more I learn abou
 
 CodeClan introduced me to Java development using vanilla Java and Java with Spring Boot.  I very much look forward to continuing with this amazing language and its frameworks.  I very much enjoy the rigidity and discipline of the language and how it naturally encourages me to employ the whole development process from planning to using design patterns to strictly writing clean, test driven, code.  
 
-Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  
+Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to transfer this understanding to learning neww statically typed languages like C#.
 
 
 

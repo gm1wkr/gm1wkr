@@ -43,7 +43,7 @@ I enjoy all aspects of development from backend engineering to creating solid an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
 </div>
-
+<br />
 ### 🔭 I’m currently working on ...
 
 - consolidating my learning from CodeClan
@@ -54,6 +54,7 @@ I enjoy all aspects of development from backend engineering to creating solid an
 - setting up the perfect development environment
 - preparing for the great job hunt!
 
+<br />
 
 ### HTML5 and CSS3
 [![HTML5][HTML5-pic]][HTML5-url] [![CSS3][CSS3-pic]][CSS3-url]

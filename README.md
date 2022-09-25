@@ -51,7 +51,6 @@ I enjoy all aspects of development from backend engineering to creating solid an
 
 I am constantly astounded by how complex these languages have become, especially when accessibility and semantic layout are considered.  I feel an absolute responsibility to write HTML and CSS that is pragmatic, semantic and accessible and continually challenge myself to improve.  While not a natural UI/UX guy I absolutely love working on the interface between science and art - between tech and human perceptions.  I continually strive to understand UI/UX better and improve my HTML5/CSS3 skills.
 
-
 ### Python
 [![Python][Python-pic]][Python-url] [![Flask][Flask-pic]][Flask-url] [![Postgres][Postgres-pic]][Postgres-url]
 

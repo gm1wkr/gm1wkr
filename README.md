@@ -44,6 +44,13 @@ I enjoy all aspects of development from backend engineering to creating solid an
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
 </div>
 
+### 🔭 I’m currently working on ...
+
+- consolidating my learning from CodeClan
+- Learning new React design patterns and auth flows
+- preparing myself to be useful to the STA by gainingfamiliarity in Python Odoo and Scorm.
+- Deep diving into accessability and semantics of my HTML/CSS
+- preparing for the great job hunt!
 
 
 ### HTML5 and CSS3
@@ -113,7 +120,7 @@ Learning the fundamentals of Java has changed my mindset and allowed me a deeper
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

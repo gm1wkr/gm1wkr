@@ -48,7 +48,7 @@ I enjoy all aspects of development from backend engineering to creating solid an
 
 - consolidating my learning from CodeClan
 - Learning new React design patterns and auth flows
-- preparing myself to be useful to the STA by gainingfamiliarity in Python Odoo and Scorm.
+- preparing myself to be useful to the STA by gaining familiarity in Python Odoo and Scorm.
 - Deep diving into accessability and semantics of my HTML/CSS
 - preparing for the great job hunt!
 

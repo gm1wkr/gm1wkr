@@ -71,11 +71,10 @@ I enjoy Python immensely!  I have been writing bad but functional python code a
 ### JavaScript
 [![JavaScript][JavaScript-pic]][JavaScript-url][![MongoDB][MongoDB-pic]][MongoDB-url][![Express][Express-pic]][Express-url][![React][React-pic]][React-url][![Node.js][Node-pic]][Node-url]
 
-As a user I freely admit that I used to hate JavaScript with a passion and would always switch it off in the browser to stop annoying alert boxes (Yes, I do want to leave the page) or flashing text from distracting me while surfing.  And then, all of a sudden, JS seemed to mature and become ... awesome!
 
-JavaScript now never ceases to surprise and delight me and the more I learn about it the more I have come to love it and its idiosyncrasies.  I have a firm grounding in vanilla JS and am comfortable using React and Node.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.  
+JavaScript never ceases to surprise and delight me, the more I learn about it the more I have come to love it and its idiosyncrasies.  I have a firm grounding in vanilla JS and am comfortable using React and Node.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.  
 
-My next step on this journey will be to start learning TypeScript.
+My next step on this journey will be to start learning TypeScript while using React as a springboard to improve my general front-end skills.
 
 ### Java
 [![Java][Java-pic]][Java-url] [![Spring][Spring-pic]][Spring-url] [![SpringBoot][SpringBoot-pic]][SpringBoot-url]

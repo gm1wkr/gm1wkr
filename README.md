@@ -86,7 +86,6 @@ I am looking forward to gaining comfort with tooling that languages like Java us
 Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed language like C# and/or Go, Rust or C++ (choices, choices, choices!).
 
 
-
 <!-- Shields -->
 [linkedin-pic]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mike-langley/

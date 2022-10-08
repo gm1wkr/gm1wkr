@@ -14,7 +14,7 @@
 
 I'm Mike - a junior software developer from the North East Scotland.  Having just completed <a href="https://codeclan.com/courses/professional-software-development/">CodeClan_ Professional Software Development</a> I am eager to explore the next steps of working as a professional developer.
 
-In the meantime I am working on tidying up my rather messy GitHub repositories and practicing my skills.  I have also volunteered for the Scottish Tech Army and Codebar.
+In the meantime I am working on tidying up my rather messy GitHub repositories and practicing my skills.  I have also volunteered for the <a href="https://www.scottishtecharmy.org/">Scottish Tech Army</a> and <a href="https://codebar.io/">Codebar</a>.
 
 <div align="center">
 

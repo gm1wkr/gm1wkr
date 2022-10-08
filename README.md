@@ -44,8 +44,9 @@ I enjoy all aspects of development from backend engineering to creating solid an
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
 </div>
 
-<br />
-### 🔭 I’m currently working on ...
+
+
+## I’m currently working on ...
 
 - consolidating my learning from CodeClan
 - Learning new React design patterns and auth flows
@@ -89,9 +90,10 @@ Learning the fundamentals of Java has changed my mindset and allowed me a deeper
 - LAMP Stack
 - Basic Linux Server installation and configuration
 - Awareness of network infrastructure and protocols
-- Microcontroller and basic hardware projects.
+- AX25 Radio Networking
+- Microcontroller and hardware projects.
 - Sensors (Command and Control) using microcontrollers, Linux and MQTT
-- Adobe Photoshop
+- Adobe Photoshop (Image compositing, Layout design, Image editing)
 - Figma 
 
 

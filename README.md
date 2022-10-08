@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=gm1wkr&style=flat-square&color=blue" alt=""/>
 </div>
 
-# 👋 Hello,
+# 
 
-I'm Mike - a junior software developer from the North East Scotland.  Having just completed <a href="https://codeclan.com/courses/professional-software-development/">CodeClan_ Professional Software Development</a> I am eager to explore the next steps of working as a professional developer.
+**I'm Mike - a junior software developer from the North East Scotland.  Having just completed <a href="https://codeclan.com/courses/professional-software-development/">CodeClan_ Professional Software Development</a> I am eager to explore the next steps of working as a professional developer.**
 
 In the meantime I am working on tidying up my rather messy GitHub repositories and practicing my skills.  I have also volunteered for the <a href="https://www.scottishtecharmy.org/">Scottish Tech Army</a> and <a href="https://codebar.io/">Codebar</a>.
 
@@ -71,8 +71,7 @@ I enjoy Python immensely!  I have been writing bad but functional python code a
 ### JavaScript
 [![JavaScript][JavaScript-pic]][JavaScript-url][![MongoDB][MongoDB-pic]][MongoDB-url][![Express][Express-pic]][Express-url][![React][React-pic]][React-url][![Node.js][Node-pic]][Node-url]
 
-
-JavaScript never ceases to surprise and delight me, the more I learn about it the more I have come to love it and its idiosyncrasies.  I have a firm grounding in vanilla JS and am comfortable using React and Node.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.
+I have a firm grounding in vanilla JS and am comfortable using React and NodeJS.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.
 
 My next step on this journey will be learning TypeScript and another framework, most likely Vue or NextJS.
 
@@ -84,6 +83,16 @@ CodeClan introduced me to Java development using vanilla Java and Java with Spri
 I am looking forward to gaining comfort with tooling that languages like Java use as well as learning to leverage the amazing features of modern IDE's to produce well written code efficiently.
 
 Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed language like C# and/or Go, Rust or C++ (choices, choices, choices!).
+
+### Other Skills
+
+- LAMP Stack
+- Basic Linux Server installation and configuration
+- Awareness of network infrastructure and protocols
+- Microcontroller and basic hardware projects.
+- Sensors (Command and Control) using microcontrollers, Linux and MQTT
+- Adobe Photoshop
+- Figma 
 
 
 <!-- Shields -->

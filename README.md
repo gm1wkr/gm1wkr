@@ -72,24 +72,25 @@ I enjoy Python immensely!  I have been writing bad but functional python code a
 ### JavaScript
 [![JavaScript][JavaScript-pic]][JavaScript-url][![MongoDB][MongoDB-pic]][MongoDB-url][![Express][Express-pic]][Express-url][![React][React-pic]][React-url][![Node.js][Node-pic]][Node-url]
 
-I have a firm grounding in vanilla JS and am comfortable using React and NodeJS.  Currently I am learning new React design patterns so I can produce production code that is reusable and readable.
+I have a firm grounding in vanilla JS and am comfortable using React and NodeJS.  Currently, I am learning new React design patterns while consolidating my vanilla JS skills.
 
 My next step on this journey will be learning TypeScript and another framework, most likely Vue or NextJS.
 
 ### Java
 [![Java][Java-pic]][Java-url] [![Spring][Spring-pic]][Spring-url] [![SpringBoot][SpringBoot-pic]][SpringBoot-url]
 
-CodeClan introduced me to Java development using vanilla Java and Java with Spring Boot.  I very much look forward to continuing with this amazing language and its frameworks.  I very much enjoy the rigidity and discipline of the language and how it naturally encourages me to employ the whole development process from planning to using design patterns to strictly writing clean, test driven, code.  
+CodeClan introduced me to Java development using vanilla Java and Java with Spring Boot.  I very much look forward to continuing with this amazing language and its frameworks.  I very much enjoy the rigidity and discipline of the language and how it encourages clean, test driven, code.  
 
 I am looking forward to gaining comfort with tooling that languages like Java use as well as learning to leverage the amazing features of modern IDE's to produce well written code efficiently.
 
-Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming languages and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed language like C# and/or Go, Rust or C++ (choices, choices, choices!).
+Learning the fundamentals of Java has changed my mindset and allowed me a deeper understanding of programming methadologies and the development process as a whole.  I am very keen to take these oppertunities and learn a new statically typed language like C# and/or Go, Rust or C++.
 
 ### Other Skills
 
-- LAMP Stack
+- LAMP Stack 
 - Basic Linux Server installation and configuration
-- Awareness of network infrastructure and protocols
+- familiarity installing and configuring Apache2, NginX, PHP, MySQLd, Sendmail, Postfix, Bind and others.
+- Awareness of network infrastructure and protocols such as IMAP, SMTP/POP3/IMAP, DNS, HTTP(S), MQTT, etc 
 - AX25 Radio Networking
 - Microcontroller and hardware projects.
 - Sensors (Command and Control) using microcontrollers, Linux and MQTT

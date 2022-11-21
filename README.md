@@ -20,7 +20,7 @@ In the meantime I am working on tidying up my rather messy GitHub repositories a
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gm1wkr&theme=dark&hide_border=true&border_radius=6&ring=DD4000&currStreakLabel=DD4500&background=300F0000&stroke=FFFFFF91&border=FFFFFF68)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm1wkr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm1wkr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 

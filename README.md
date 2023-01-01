@@ -49,13 +49,13 @@ I enjoy all aspects of development from backend engineering to creating solid an
 
 ## I’m currently working on ...
 
-- consolidating my learning from CodeClan
-- Learning new React design patterns and auth flows
-- preparing myself to be useful to the STA by gaining familiarity in (Python) Odoo and Scorm.
-- Deep diving into accessibility and semantics of HTML/CSS and improving the general user experience of code I write.
-- giving a nod to graphical design fundementals that may improve the look and feel of the front end.
-- setting up the perfect development environment
-- preparing for the great job hunt!
+- Improving my understanding of PHP
+- Learning Object Orientated PHP
+- Gaining familiarity with Laravel
+- Improving my vanilla JavaScript
+- Becomming familiar with VueJs
+- Having lots of fun with CSS / SCSS
+- Doubling down on accessability
 
 <br /><hr>
 
